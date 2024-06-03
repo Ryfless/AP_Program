@@ -1,6 +1,6 @@
 ## Getting Started
     Program ini dibuat untuk memenuhi tugas mata kuliah algoritma pemrograman
-    Ponsep OOP dalam bahasa Java
+    Konsep OOP dalam bahasa Java
 > Ini adalah program untuk membuat karakter game yang memiliki status seperti nama, atk points, health points dan level.
 > Kemudian Player dapat memilih servant player (Referensi fate series) yang memiliki 7 class serta skill dan attribut spesial yang berbeda.
 
