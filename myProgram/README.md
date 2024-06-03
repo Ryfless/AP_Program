@@ -20,4 +20,5 @@
     main method terdapat pada file panggil.java.
 
 *Program ini telah memenuhi syarat konsep konsep Object Oriented Programming.
-\n** Coded by Muhamad Rafli AR Razzi.
+<br />
+** Coded by Muhamad Rafli AR Razzi.
